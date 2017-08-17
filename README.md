@@ -23,6 +23,6 @@ Install the required packages using this command
 Run your emulator using Android Studio or XCode.
 
 ### Step 5:
-Now you are ready with project jus hit this command on command line 
+Now you are ready with project just hit this command on command line 
 
 `$react-native run-android`
