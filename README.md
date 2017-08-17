@@ -1,5 +1,5 @@
 # stack-navigation-with-tab-navigation-react-native
-This repository gives a overview how we can implement stack navigation with tab navigation in react native.
+This repository gives a overview how we can implement stack navigation within tab navigation in react native.
 
 ## Steps For Running This App In Your Laptops.
 Make sure you have latest version of node at leat Node v6. Xcode or Android Studio is installed on your computer for emulating the virtual device on your system..
